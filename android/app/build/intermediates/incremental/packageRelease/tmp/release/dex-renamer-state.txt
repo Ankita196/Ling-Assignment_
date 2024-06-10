@@ -1,0 +1,7 @@
+#Sat Jun 01 17:33:15 IST 2024
+base.1=/Users/traya1/Downloads/Ling-Assignment/Ling/android/app/build/intermediates/global_synthetics_dex/release/classes.dex
+path.1=classes.dex
+base.0=/Users/traya1/Downloads/Ling-Assignment/Ling/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
